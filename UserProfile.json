@@ -1,0 +1,43 @@
+[
+  {
+    "userId": "hiring@iomd.info",
+    "profiles": [
+      {
+        "address": "842 S Broadway, Los Angeles",
+        "email": "test2.ideas2it@iomd.info",
+        "password": "test@123",
+        "firstName": "Rohan",
+        "lastName": "Mahadevan",
+        "phone": "4081113232",
+        "address1": "842 S Broadway",
+        "address2": "Colgate-Palmolive",
+        "city": "Los Angeles",
+        "country": "US",
+        "state": "CA",
+        "postalCode": "90014",
+        "cardName": "Rohan Mahadevan",
+        "cardnumber": "4111 1111 1111 1111",
+        "expiry": "04/24",
+        "cvv": "123"
+      },
+      {
+        "address": "361 Linfield drive, Palmolive, Menlo Park",
+        "email": "hiring@iomd.info",
+        "password": "test@123",
+        "firstName": "Harsha",
+        "lastName": "Elchuri",
+        "phone": "4085551212",
+        "address1": "361 Linfield drive",
+        "address2": "Palmolive",
+        "city": "Menlo Park",
+        "country": "US",
+        "state": "CA",
+        "postalCode": "94025",
+        "cardName": "Harsha Elchuri",
+        "cardnumber": "6011 1111 1111 1117",
+        "expiry": "07/22",
+        "cvv": "123"
+      }
+    ]
+  }
+]
